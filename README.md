@@ -16,12 +16,12 @@ From sketches and drafts to fully realized prototypes, I take pride in my abilit
 
 ##  Portfolio
 
-[Hine.Studio](hine.studio)
+[Hine.Studio](https://hine.studio)
 
 
 ##  Open Source Projects
 
-- <img src="https://i.imgur.com/rXB5sRY_d.png?maxwidth=520&shape=thumb&fidelity=high" height="20px" style="border-radius:24px" /> [Duck Design System](duck.hine.studio): Build Amazing Elements
+- <img src="https://i.imgur.com/rXB5sRY_d.png?maxwidth=520&shape=thumb&fidelity=high" height="20px" style="border-radius:24px" /> [Duck Design System](https://duck.hine.studio): Build Amazing Elements
 Build Your Website Quickly and Seamlessly!
 - <img src="https://i.imgur.com/OekmCJm.png" height="20px" style="border-radius:4px" /> [Duck icon](https://duck.hine.studio/duck-icon): Simple Icons Pack
 Simplicity, friendliness and creativity!
